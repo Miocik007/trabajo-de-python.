@@ -1,0 +1,8 @@
+print("---")
+print("VERIFICAR SI ES MAYOR DE EDAD") 
+print("---")
+x = float( input("Ingrese su edad: "))
+print("\nSALIDA: ") 
+print("---") 
+if x >= 18 : print("Usted es mayor de edad")
+else : print("Usted es menor de edad")

@@ -1,0 +1,8 @@
+print("---")
+print("VERIFICAR SI UN ALUMNO ESTA APROBADO") 
+print("---")
+x = float( input("Ingrese Calificación: "))
+print("\nSALIDA: ") 
+print("---") 
+if x > 10.5 : print("Aprobado")
+else : print("Desaprobado")
